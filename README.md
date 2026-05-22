@@ -40,12 +40,4 @@ A modular implementation of the **32-bit MIPS architecture**, exploring two fund
 
 ---
 
-### Implementation Details
-| Variant | Architectural Details |
-| :---: | :---: |
-| **Single-Cycle** | Executes instructions in a single clock cycle. |
-| **Pipeline** | 5-stage implementation (IF, ID, EX, MEM, WB) with hazard/forwarding units for high performance. |
-
----
-
 © 2026 MIPS Architecture Lab | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
