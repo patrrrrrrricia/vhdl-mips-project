@@ -41,7 +41,7 @@ A modular implementation of the **32-bit MIPS architecture**, exploring two fund
 ---
 
 ### Visual Documentation
-| Pipeline Architecture | RTL Schema & Logic |
+| Pipeline | Single-Cycle |
 | :---: | :---: |
 | <img width="400" src="https://github.com/user-attachments/assets/5b9710c6-8d99-49a0-8fea-b2901ea505ed" /> | <img width="400" src="https://github.com/user-attachments/assets/148fb779-e97b-448b-9ebe-2d7e7a81e467" /> |
 
