@@ -11,8 +11,8 @@ O implementare modulară a arhitecturii **MIPS pe 32 de biți**, explorând dou�
 * **Arhitecturi:** Single-Cycle, Pipeline (5 etape: IF, ID, EX, MEM, WB)
 * **Design:** Arhitectură modulară, DataPath & Control Unit
 
-![VHDL](https://img.shields.io/badge/VHDL-Hardware_Design-%23005A9C.svg?style=for-the-badge&logo=vhdl&logoColor=white) 
-![MIPS](https://img.shields.io/badge/MIPS-Architecture-%23D42027.svg?style=for-the-badge&logo=microchip&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-Hardware_Design-%23FF69B4.svg?style=for-the-badge&logo=vhdl&logoColor=white) 
+![MIPS](https://img.shields.io/badge/MIPS-Architecture-%23FF69B4.svg?style=for-the-badge&logo=microchip&logoColor=white)
 
 ---
 
