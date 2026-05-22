@@ -12,5 +12,5 @@ Implementările VHDL pentru arhitectura MIPS, structurate pe două niveluri: `si
 ### Structura Implementării
 | Varianta | Detalii Arhitecturale |
 | :---: | :---: |
-| **Single-Cycle** | Execută instrucțiunile într-un singur ciclu de ceas. Ideal pentru înțelegerea fluxului de date. |
+| **Single-Cycle** | Execută instrucțiunile într-un singur ciclu de ceas. |
 | **Pipeline** | Implementare cu 5 etape (IF, ID, EX, MEM, WB) și unități de hazard/forwarding pentru performanță ridicată. |
