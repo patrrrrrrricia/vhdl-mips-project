@@ -1,7 +1,7 @@
 ---
 
 ## ⚙️ MIPS Processor Implementation
-Acest repository găzduiește și implementările VHDL pentru arhitectura MIPS, structurate pe două niveluri: `single-cycle` și `pipeline`.
+Arhitectura MIPS, structurate pe două niveluri: `single-cycle` și `pipeline`.
 
 ### Problema abordată: Analiza șirului de date
 **Cerință:** Determinarea numărului de valori **pozitive și impare** dintr-un șir de **N** elemente.
