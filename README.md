@@ -7,7 +7,7 @@ A modular implementation of the **32-bit MIPS architecture**, exploring two fund
 
 ## 🤍 Tech Stack
 * **Language:** VHDL (VHSIC Hardware Description Language)
-* **Tools:** ModelSim / Vivado / Quartus
+* **Tools:** Vivado
 * **Architectures:** Single-Cycle, Pipeline (5 stages: IF, ID, EX, MEM, WB)
 * **Design:** Modular Architecture, DataPath & Control Unit
 
