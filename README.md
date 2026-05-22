@@ -43,7 +43,7 @@ A modular implementation of the **32-bit MIPS architecture**, exploring two fund
 ### Visual Documentation
 | Single-Cycle | Pipeline |
 | :---: | :---: |
-| <img width="400" src="https://github.com/user-attachments/assets/b7176fad-ee19-4d12-8330-4cc4d580792f" /> | <img width="400" src="https://github.com/user-attachments/assets/223fc821-2bd2-4c37-ac67-bf522246fde2" /> |
+| <img width="400" src="https://github.com/user-attachments/assets/d8f76922-f783-4289-b6e3-bd82c9595823" /> | <img width="400" src="https://github.com/user-attachments/assets/223fc821-2bd2-4c37-ac67-bf522246fde2" /> |
 
 ---
 
